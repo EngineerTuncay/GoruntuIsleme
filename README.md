@@ -1,5 +1,9 @@
 # CSharp Görüntü İşleme
 
+# C# ile Windows App ve Web(Asp.net - Asp.net MVC) projenizi uygun bir maliyete yaptırmak için;
+# Wp: +90 542 667 08 99
+# Email: tuncayuslu1997@gmail.com
+
 Merhabalar, bu projede C# yazılım dili kullanılarak paint'ten bir tık daha gelişmiş bir görsel efekt programı hazırlanmaya çalışılmıştır.
 
 ![image](https://user-images.githubusercontent.com/82308015/177032543-7c3f9ccc-d2b4-4b73-81e8-dcd4dd536766.png)
